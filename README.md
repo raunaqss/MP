@@ -14,3 +14,5 @@ There are a number of ways to connect the RaspberryPi to the internet to be able
 2. Bluetooth tethering - if you have a bluetooth adapter and a bluetooth internet hotspot.
 
 3. USB tethering from smartphone (have tested this on iOS only).
+
+The pdf file Pi Temperature Report in the repository is a detailed report on this project.
